@@ -1,4 +1,4 @@
 #! /bin/bash
 
-./build/bin/LucidCLI
+./build/bin/LucidCLI -l
 
